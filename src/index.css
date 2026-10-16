@@ -15,4 +15,5 @@ body {
   padding: 0;
   background-color: #0f0f0f;
   font-family: var(--font-primary);
+  scroll-behavior: smooth;
 }
